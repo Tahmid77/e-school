@@ -35,6 +35,7 @@ h1 span{
     padding: 20px;
     border-radius: 25px;
     box-shadow: 3px 3px 20px lightgrey;
+    height: 480px;
 }
 .man{
     width: 120px;
